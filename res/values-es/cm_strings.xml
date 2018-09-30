@@ -80,4 +80,6 @@
     <string name="backup_transport_title">Seleccionar el proveedor de la copia de seguridad</string>
     <string name="connected_tws_device_saved_title">Auriculares guardados</string>
     <string name="peak_refresh_rate_summary_custom">Aumenta automáticamente la frecuencia de actualización de 60 a %1$d Hz en determinados tipos de contenido. Se usará más batería.</string>
+    <string name="security_patch_legacy">Copia de seguridad no oficial</string>
+    <string name="security_patch_legacy_info">No hay actualizaciones de seguridad oficiales disponibles para esta versión de Android. \nTodos los parches contenidos fueron portados desde versiones más nuevas.</string>
 </resources>

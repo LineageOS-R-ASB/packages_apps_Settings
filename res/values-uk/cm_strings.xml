@@ -73,4 +73,6 @@
     <string name="backup_transport_setting_label">Змінити провайдера резервного копіювання</string>
     <string name="backup_transport_title">Оберіть провайдера резервного копіювання</string>
     <string name="peak_refresh_rate_summary_custom">Автоматично збільшує частоту оновлення певного вмісту з 60 до %1$d Гц. Підвищує використання заряду акумулятора.</string>
+    <string name="security_patch_legacy">Неофіційні виправлення безпеки</string>
+    <string name="security_patch_legacy_info">Офіційні виправлення безпеки більше не випускаються для даної версії Android. \nУсі виправлення, наявні у цій збірці, адаптовані з новіших версій системи.</string>
 </resources>
