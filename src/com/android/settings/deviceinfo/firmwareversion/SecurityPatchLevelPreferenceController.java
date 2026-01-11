@@ -62,9 +62,8 @@ public class SecurityPatchLevelPreferenceController extends BasePreferenceContro
 
         new AlertDialog.Builder(mContext)
             .setTitle(R.string.security_patch_legacy)
-            .setIcon(android.R.drawable.ic_dialog_alert)
             .setMessage(R.string.security_patch_legacy_info)
-            .setNegativeButton(R.string.cancel, null)
+            .setNegativeButton(R.string.okay, null)
             .create().show();
 
         return true;
